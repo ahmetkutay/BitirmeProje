@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467873382551",
+    "project_id": "critisimbox",
+    "storage_bucket": "critisimbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467873382551:android:0e3e14bc01c9ae5d8fa9d2",
+        "android_client_info": {
+          "package_name": "com.example.newestapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467873382551-dm3sdvlpq8akd84s083jsihf70qf88mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZUgE6WuKd75O1a1-8-j71lyiRbkerCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467873382551-dm3sdvlpq8akd84s083jsihf70qf88mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
